@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
 - 👨‍💻 All of my projects are available at [ebenezerfrimpong.netlify.app](ebenezerfrimpong.netlify.app)
 
