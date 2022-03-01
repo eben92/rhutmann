@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 👨‍💻 All of my projects are available at [ebenezerfrimpong.netlify.app](ebenezerfrimpong.netlify.app)
-
 - 💬 Ask me about **reactjs, nextjs**
 
 - 📫 How to reach me **eben.frimpong2001@gmail.com**
