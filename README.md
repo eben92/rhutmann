@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://ebenfrimpong.com" target="blank">ebenfrimpong.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://ebenfrimpong.com" target="_blank">ebenfrimpong.com</a>
 
 - 💬 Ask me about **reactjs, nextjs**
 
