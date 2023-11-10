@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://ebenfrimpong.com" target="_blank">ebenfrimpong.com</a>
 
-- 💬 Ask me about **reactjs, nextjs**
+- 💬 Ask me about **react, nextjs**
 
 - 📫 How to reach me **eben.frimpong2001@gmail.com**
 
