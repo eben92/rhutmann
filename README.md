@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, nextjs**
 
-- 📫 How to reach me **eben.frimpong2001@gmail.com**
+- 📫 How to reach me **ebenfrimpong.dev@gmail.com**
 
 - ⚡ Fun fact **lmao**
 
