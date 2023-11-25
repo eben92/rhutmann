@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhutmann" alt="rhutmann" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang && Serverless backend stuff**
+- 🌱 I’m currently learning **Go & Serverless backend stuff**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
